@@ -6,8 +6,7 @@ CYBERSECURITY | PYTHON | C PROGRAMMING
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [komalkalikar@gmail.com](mailto:komalkalikar@gmail.com)
-* 🧠  I'm learning Ethical Hacking
-
+* 🧠  I'm Learning Data Structures and Algorithms (DSA) in Java
 <a href="https://www.github.com/komalkalikar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/komalkalikar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
